@@ -1,0 +1,3 @@
+# minsa
+
+minsa x2
